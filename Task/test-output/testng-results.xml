@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38873" started-at="2017-12-22T12:11:05Z" finished-at="2017-12-22T12:11:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38873" started-at="2017-12-22T12:11:05Z" finished-at="2017-12-22T12:11:44Z">
+      <class name="t_systems.Task.VideoTreilerTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:t_systems.Task.VideoTreilerTest@675d3402]" name="setup" is-config="true" duration-ms="12507" started-at="2017-12-22T16:11:05Z" finished-at="2017-12-22T16:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyVideoTreilerTest()[pri:1, instance:t_systems.Task.VideoTreilerTest@675d3402]" name="verifyVideoTreilerTest" duration-ms="6779" started-at="2017-12-22T16:11:18Z" finished-at="2017-12-22T16:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVideoTreilerTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:t_systems.Task.VideoTreilerTest@675d3402]" name="close" is-config="true" duration-ms="794" started-at="2017-12-22T16:11:25Z" finished-at="2017-12-22T16:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:t_systems.Task.VideoTreilerTest@675d3402]" name="setup" is-config="true" duration-ms="11300" started-at="2017-12-22T16:11:25Z" finished-at="2017-12-22T16:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyFIrstVideoTreilerTest()[pri:2, instance:t_systems.Task.VideoTreilerTest@675d3402]" name="verifyFIrstVideoTreilerTest" duration-ms="6684" started-at="2017-12-22T16:11:37Z" finished-at="2017-12-22T16:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFIrstVideoTreilerTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:t_systems.Task.VideoTreilerTest@675d3402]" name="close" is-config="true" duration-ms="779" started-at="2017-12-22T16:11:43Z" finished-at="2017-12-22T16:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- t_systems.Task.VideoTreilerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
